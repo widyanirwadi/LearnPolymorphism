@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LearnPolymorphism\bin\Debug\net6.0\LearnPolymorphism.exe
+C:\Users\user\source\repos\LearnPolymorphism\bin\Debug\net6.0\LearnPolymorphism.deps.json
+C:\Users\user\source\repos\LearnPolymorphism\bin\Debug\net6.0\LearnPolymorphism.runtimeconfig.json
+C:\Users\user\source\repos\LearnPolymorphism\bin\Debug\net6.0\LearnPolymorphism.dll
+C:\Users\user\source\repos\LearnPolymorphism\bin\Debug\net6.0\LearnPolymorphism.pdb
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.AssemblyInfo.cs
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.dll
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\refint\LearnPolymorphism.dll
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.pdb
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\LearnPolymorphism.genruntimeconfig.cache
+C:\Users\user\source\repos\LearnPolymorphism\obj\Debug\net6.0\ref\LearnPolymorphism.dll
